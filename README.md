@@ -59,19 +59,6 @@ No login required! All users can view, add, edit, delete, and borrow books witho
 
 ---
 
-## Pages
-
-| Route             | Description                          |
-| ----------------- | ------------------------------------ |
-| `/books`          | View all books with actions          |
-| `/create-book`    | Form to add a new book               |
-| `/books/:id`      | Detailed view of a book              |
-| `/edit-book/:id`  | Edit a selected book                 |
-| `/borrow/:bookId` | Borrow form for selected book        |
-| `/borrow-summary` | Aggregated summary of borrowed books |
-
----
-
 ## UI/UX Design
 
 - **Minimalist & Clean UI**: Built using Tailwind CSS or plain CSS.
@@ -80,17 +67,6 @@ No login required! All users can view, add, edit, delete, and borrow books witho
   - Smooth navigation
   - Well-labeled buttons and inputs
   - Real-time updates
-
----
-
-## Bonus Features
-
-| Feature               | Points |
-| --------------------- | ------ |
-| Optimistic UI Updates | +2     |
-| Toast Notifications   | +2     |
-| Responsive Layout     | +4     |
-| Type-Safe Forms       | +2     |
 
 ---
 
@@ -112,3 +88,5 @@ No login required! All users can view, add, edit, delete, and borrow books witho
 git clone https://github.com/helal9380/library-management-project.git
 cd library-management-project
 ```
+
+# Thank..
