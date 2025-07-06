@@ -1,9 +1,9 @@
 /** @format */
 import type { Ibook } from "@/types/types";
-import "swiper/css";
-import "swiper/css/navigation";
+
 import { Autoplay, Navigation } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
+import "swiper/swiper-bundle.css";
 
 interface BookSliderProps {
   books: Ibook[];
